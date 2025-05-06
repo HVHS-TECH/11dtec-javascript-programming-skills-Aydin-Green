@@ -8,7 +8,8 @@ Purpose: To get my school work done
 
 
 //Variables
-prompt("welcome to my program. /nWhat should I call you?");
+prompt("What should I call you?");
+
 
 /*********************
 Main code
