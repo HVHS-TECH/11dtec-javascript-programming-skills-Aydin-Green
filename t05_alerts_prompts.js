@@ -8,7 +8,7 @@ Purpose: To get my school work done
 
 
 //Variables
-prompt("What should I call you?");
+prompt ("What should I call you?", Greg);
 
 
 /*********************
