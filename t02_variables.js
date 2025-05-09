@@ -19,7 +19,7 @@ console.log (CurrentYear)
 alert ("Hello " +UserName+ " \nAs of " +CurrentYear+ " you are " +UserAge+ " years old \nYour current pocket money is " +UserPocketMoney+ "")
 console.log ("Hello " +UserName+ " As of " +CurrentYear+ " you are " +UserAge+ " years old you have " +UserPocketMoney+ " dollars ")
 /*********************
-Main code
+Main code 
 *********************/
 
 
