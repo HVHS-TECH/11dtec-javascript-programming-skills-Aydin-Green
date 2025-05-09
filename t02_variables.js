@@ -16,8 +16,8 @@ var UserPocketMoney = prompt ("How much pocket money do you have?")
 console.log (UserPocketMoney)
 var CurrentYear = prompt ("What year is it?")
 console.log (CurrentYear)
-alert ("Hello" +UserName+ "\nas of" +CurrentYear+ "you are" +UserAge+ "years old \nYour current pocket money is" +UserPocketMoney+ "")
-console.log ("Hello" +UserName+ "as of" +CurrentYear+ "you are" +UserAge+ "years old you have" +UserPocketMoney+ "dollars")
+alert ("Hello " +UserName+ " \nas of " +CurrentYear+ " you are " +UserAge+ " years old \nYour current pocket money is " +UserPocketMoney+ "")
+console.log ("Hello " +UserName+ " as of " +CurrentYear+ " you are " +UserAge+ " years old you have " +UserPocketMoney+ " dollars ")
 /*********************
 Main code
 *********************/
