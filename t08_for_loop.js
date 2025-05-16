@@ -13,7 +13,7 @@ var Two = prompt ("pick a random number")
 var Three = prompt ("pick a random number")
 var Four = prompt ("pick a random number")
 var Five = prompt ("pick a random number")
-alert ("The sum of your numbers is" +((One+Two)+(Three+Four)+Five)+ "")
+alert ("The sum of your numbers is" +(((One+Two)+(Three+Four))+Five)+ "")
 
 /*********************
 Main code
