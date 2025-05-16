@@ -8,12 +8,12 @@ Purpose: To get my school work done
 
 
 //Variables
-var NumberOne = prompt ("pick a random number")
-var NumberTwo = prompt ("pick a random number")
-var NumberThree = prompt ("pick a random number")
-var NumberFour = prompt ("pick a random number")
-var NumberFive = prompt ("pick a random number")
-alert ("The sum of your numbers is" +(NumberOne+NumberTwo+NumberThree+NumberFour+NumberFive)+ "")
+var One = prompt ("pick a random number")
+var Two = prompt ("pick a random number")
+var Three = prompt ("pick a random number")
+var Four = prompt ("pick a random number")
+var Five = prompt ("pick a random number")
+alert ("The sum of your numbers is" +(One+Two+Three+Four+Five)+ "")
 
 /*********************
 Main code
