@@ -16,7 +16,7 @@ for (count = 0; count < 5; count++) {
 
 }
 
-alert ("The sum of your numbers is" +Sum+ "")
+alert ("The sum of your numbers are" +Sum+ "")
 
 /*********************
 Main code
