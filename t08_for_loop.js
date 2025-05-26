@@ -8,17 +8,20 @@ Purpose: To get my school work done
 
 
 //Variables
-var One = prompt ("pick a random number")
-var Two = prompt ("pick a random number")
-var Three = prompt ("pick a random number")
-var Four = prompt ("pick a random number")
-var Five = prompt ("pick a random number")
-alert ("The sum of your numbers is" +(((One+Two)+(Three+Four))+Five)+ "")
+var Sum = 0
+for (count = 0; count < 5; count++) {
+
+    var Num = Number(prompt ("pick a random number"))
+    var Sum = Sum+Num
+
+}
+
+alert ("The sum of your numbers is" +Sum+ "")
 
 /*********************
 Main code
 *********************/
- 
+
 
 
 
