@@ -31,7 +31,7 @@ console.log (UserName)
 }
 
 function GetUserAge() {
-    var UserAge = prompt ("How old are you " + UserName + "?")
+    var UserAge = prompt ("How old are you?")
 console.log (UserAge)
 }
 
