@@ -5,7 +5,7 @@ By Aydin
 Starting date: 28/05/2025 
 Purpose: To get my school work done
 *********************/
-
+var UserName,UserAge,UserPocketMoney,CurrentYear = "test";
 
 //Variables
 GetUserName()
@@ -26,21 +26,21 @@ Functions
 ********************/
 
 function GetUserName() {
-    var UserName = prompt("What is your name");
+    UserName = prompt("What is your name");
     console.log(UserName)
 }
 
 function GetUserAge() {
-    var UserAge = prompt("How old are you?")
+    UserAge = prompt("How old are you?")
     console.log(UserAge)
 }
 
 function GetUserPocketMoney() {
-    var UserPocketMoney = prompt("How much pocket money do you have?")
+    UserPocketMoney = prompt("How much pocket money do you have?")
     console.log(UserPocketMoney)
 }
 
 function GetCurrentYear() {
-    var CurrentYear = prompt("What year is it?")
+    CurrentYear = prompt("What year is it?")
     console.log(CurrentYear)
 }
