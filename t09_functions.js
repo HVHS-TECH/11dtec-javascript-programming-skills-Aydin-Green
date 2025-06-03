@@ -12,8 +12,8 @@ GetUserName()
 GetUserAge()
 GetUserPocketMoney()
 GetCurrentYear()
-alert("Hello " + UserName + " \nAs of " + CurrentYear + " you are " + UserAge + " years old \nYou were born in " + (CurrentYear - UserAge) + "\nIn 10 years you'll be " + (10 + UserAge) + "\nYour current pocket money is " + UserPocketMoney + "\nHalf of your money is " + (UserPocketMoney / 2))
-console.log("Hello " + UserName + " As of " + CurrentYear + " you are " + UserAge + " years old You were born in " + (CurrentYear - UserAge) + " In 10 years you'll be " + (10 + UserAge) + " you have " + UserPocketMoney + " dollars Half of your money is " + (UserPocketMoney / 2))
+alert(`Hello ${UserName}\nAs of ${CurrentYear} you are ${UserAge} years old\nYou were born in ${(CurrentYear - UserAge)}In 10 years you'll be ${(10 + UserAge)}\nYour current pocket money is ${UserPocketMoney}\nHalf of your money is ${(UserPocketMoney / 2)}`)
+// console.log("Hello " + UserName + " As of " + CurrentYear + " you are " + UserAge + " years old You were born in " + (CurrentYear - UserAge) + " In 10 years you'll be " + (10 + UserAge) + " you have " + UserPocketMoney + " dollars Half of your money is " + (UserPocketMoney / 2))
 /*********************
 Main code
 *********************/
