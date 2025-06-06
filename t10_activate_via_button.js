@@ -5,7 +5,7 @@ By Aydin
 Starting date: 4/06/2025 
 Purpose: To get my school work done
 *********************/
-var UserName,UserAge,UserPocketMoney,CurrentYear = "Null";
+var UserName,UserAge,UserPocketMoney,CurrentYear = 0;
 
 //Variables
 
