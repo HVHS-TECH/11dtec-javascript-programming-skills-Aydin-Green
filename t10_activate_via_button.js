@@ -26,17 +26,17 @@ function GetUserName() {
 }
 
 function GetUserAge() {
-    UserAge = prompt("How old are you?")
+    UserAge = Number(prompt("How old are you?")) ;
     console.log(UserAge)
 }
 
 function GetUserPocketMoney() {
-    UserPocketMoney = prompt("How much pocket money do you have?")
+    UserPocketMoney = Number(prompt("How much pocket money do you have?")) ;
     console.log(UserPocketMoney)
 }
 
 function GetCurrentYear() {
-    CurrentYear = prompt("What year is it?")
+    CurrentYear = Number(prompt("What year is it?")) ;
     console.log(CurrentYear)
 }
 
