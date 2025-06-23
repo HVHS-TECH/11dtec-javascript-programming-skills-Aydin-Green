@@ -11,7 +11,7 @@ var ar = ["as","bd","fu","pe","wo"];
 var Sum = 0
 for (count = 0; count < 5; count++) {
 
-    console.log (ar)
+    console.log (ar[count])
 
 }
 
