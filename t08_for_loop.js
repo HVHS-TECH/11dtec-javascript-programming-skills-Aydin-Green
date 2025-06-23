@@ -6,13 +6,17 @@ Starting date: 16/05/2025
 Purpose: To get my school work done
 *********************/
 
-var ar = ["as","bd","fu","pe","wo"];
+var ar = ["as","bd","fu","pe","wo","eeeeep", "a bunch of stuff"];
 //Variables
 var Sum = 0
-for (count = 0; count < 5; count++) {
+for (count = 0; count < ar.length; count++) {
 
-    console.log (ar[count])
-
+    
+    if (ar[count] == "fu") {
+        console.log ("beep")
+    } else {
+        console.log (ar[count])
+    }
 }
 
 alert("The sum of your numbers are" + Sum + "")
