@@ -5,7 +5,7 @@ By Aydin
 Starting date: 16/05/2025 
 Purpose: To get my school work done
 *********************/
-
+var message
 var ar = ["as","bd","fu","pe","wo","eeeeep", "a bunch of stuff"];
 //Variables
 var Sum = 0
