@@ -10,7 +10,7 @@ var ar = ["as","bd","fu","pe","wo","eeeeep", "a bunch of stuff"];
 //Variables
 var Sum = 0
 for (count = 0; count < ar.length; count++) {
-message = message + "!"
+message = message + ar[count]
     
     if (ar[count] == "fu") {
         console.log ("beep")
